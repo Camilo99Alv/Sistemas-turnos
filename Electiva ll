@@ -1,0 +1,27 @@
+# Sistema-de-turnos
+Sistema de turnos digital para uso en consultorio médico
+
+# Caracteristicas que se busca tener
+
+-No necesita instalación el sistema arroja los turno y estos se visualizan en el monitor.
+
+-Permite crear usuarios.
+
+-Cada profesional de la empresa puede habilitar los turnos.
+
+-Permite que sus clientes soliciten turnos online SIN NECESIDAD DE REGISTRARSE.
+
+-En pantalla muestra la hora y fecha de la creacion del turno.
+
+-Posibilidad de limitar cantidad de sobreturnos.
+
+-Funciona con cualquier red disponible
+
+# A futuro
+
+-Impresión de vaucher de turnos.
+
+-Reportes para el manejo de caja.
+
+-Crear Recetas, subir imagen de firma / sello, descargarlas como pdf, enviarlas por mail.
+
